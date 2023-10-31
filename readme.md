@@ -22,6 +22,6 @@ You may contribute to this repository with your projects, clone and PR.
 
 #### Disclaimer
 
-The information contained on this repository, and the resources available for download through the repository, is for educational and general informational purposes only, and is not intended as, and shall not be understood or construed as proffetional and legal advice.
+The information on this repository and the resources available for download through the repository are for educational and general informational purposes only. They are not intended as and shall not be understood or construed as professional and legal advice.
 
-The owner and contiributors of this repository will not be held liable for any losses or damages caused by acting or failing to act on the ground of the content of this repository.
+The owner and contributors of this repository will not be held liable for any losses or damages caused by acting or failing to act on the grounds of the content of this repository.
